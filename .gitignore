@@ -1,0 +1,24 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.javap
+*.javadoc
+
+# Angular
+/node_modules/
+/dist/
+/.angular/
+
+# IDE files
+*.idea/
+*.vscode/
+*.project
+*.classpath
+*.settings/
+*.iml
+
+# Operating System files
+.DS_Store
+Thumbs.db
